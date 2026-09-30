@@ -65,8 +65,8 @@ def main(spec_path, wd):
     cat = "".join(f"[c{i}]" for i in range(k)) + f"concat=n={k}:v=1:a=0,settb=1/24[cut]"
     fl.append(cat)
     p = spec["plate"]
-    ins += ["-loop", "1", "-t", str(R), "-i", p["image"]]
-    fl.append(f"[{k}:v]{N},scale=w='trunc(1080*(1+0.04*t/{R})/2)*2':h=-2:eval=frame,crop=1080:1920,setsar=1,trim=0:{R - p['at'] + 1},setpts=PTS-STARTPTS,settb=1/24[pl]")
+    ins += ["-loop", "1", "-framerate", "24", "-t", str(R), "-i", p["image"]]
+    fl.append(f"[{k}:v]{N},scale=w='trunc(1080*(1+0.04*t/{R})/2)*2':h=-2:eval=frame,crop=1080:1920,setsar=1,trim=0:{R - p['at'] + 1},setpts=PTS-STARTPTS,fps=24,settb=1/24[pl]")
     fl.append(f"[cut][pl]xfade=transition=fade:duration={p['dissolve']}:offset={p['at']},noise=alls=5:allf=t,format=yuv420p[vout]")
     run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *ins, "-filter_complex", ";".join(fl),
          "-map", "[vout]", "-t", str(R), "-c:v", "libx264", "-preset", "fast", "-crf", "16", "-r", "24", "picture.mp4"])
