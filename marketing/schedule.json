@@ -66,6 +66,27 @@
       "at": "2026-10-01T18:00",
       "metricool_id": 384773421,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
+    },
+    {
+      "ep": "03A",
+      "network": "tiktok",
+      "at": "2026-10-02T18:00",
+      "metricool_id": 384784353,
+      "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
+    },
+    {
+      "ep": "03A",
+      "network": "youtube",
+      "at": "2026-10-02T18:00",
+      "metricool_id": 384784380,
+      "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
+    },
+    {
+      "ep": "03A",
+      "network": "instagram",
+      "at": "2026-10-02T18:00",
+      "metricool_id": 384784501,
+      "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     }
   ],
   "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels"
