@@ -9,7 +9,7 @@ The master numbering (1–148) is fixed. When a roadmap episode cannot fit in **
 | Ep | Title | Source (KJV) | Verses not narrated | Est. runtime (s) | Status | Folder |
 |---|---|---|---|---|---|---|
 | 01 | In the Beginning | Genesis 1:1–5 | — | 64 | ✅ Produced (package, captions, soundbed, end card) | `episodes/ep01-in-the-beginning/` |
-| 02A | The Heavens | Genesis 1:6–8 | — | 64.5 | 📝 Package written | `episodes/ep02a-the-heavens/` |
+| 02A | The Heavens | Genesis 1:6–8 | — | 64.5 | ✅ Produced (video, cover, spec, captions) | `episodes/ep02a-the-heavens/` |
 | 02B | The Dry Land | Genesis 1:9–13 | — | 88.8 | 📝 Package written | `episodes/ep02b-the-dry-land/` |
 | 03A | Signs and Seasons | Genesis 1:14–19 | 1:17–18 | 68.9 | 📝 Package written | `episodes/ep03a-signs-and-seasons/` |
 | 03B | The Living World | Genesis 1:20–25 | 1:25 | 88.5 | 📝 Package written | `episodes/ep03b-the-living-world/` |
