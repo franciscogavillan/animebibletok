@@ -1,0 +1,313 @@
+{
+ "name": "genesis_ep03b_the_living_world",
+ "runtime": 83.0,
+ "clips": [
+  {
+   "shot": "S01",
+   "file": "clips/S01.mp4",
+   "in": 0,
+   "dur": 4.5
+  },
+  {
+   "shot": "S02",
+   "file": "clips/S02.mp4",
+   "in": 0,
+   "dur": 3.5
+  },
+  {
+   "shot": "S03",
+   "file": "clips/S03.mp4",
+   "in": 0,
+   "dur": 5.0
+  },
+  {
+   "shot": "S04",
+   "file": "clips/S04.mp4",
+   "in": 0,
+   "dur": 3.5
+  },
+  {
+   "shot": "S05",
+   "file": "clips/S05.mp4",
+   "in": 0,
+   "dur": 6.0
+  },
+  {
+   "shot": "S06",
+   "file": "clips/S06.mp4",
+   "in": 0,
+   "dur": 5.0
+  },
+  {
+   "shot": "S07",
+   "file": "clips/S07.mp4",
+   "in": 0,
+   "dur": 5.0
+  },
+  {
+   "shot": "S08",
+   "file": "clips/S08.mp4",
+   "in": 0,
+   "dur": 3.5
+  },
+  {
+   "shot": "S09",
+   "file": "clips/S09.mp4",
+   "in": 0,
+   "dur": 3
+  },
+  {
+   "shot": "S10",
+   "file": "clips/S10.mp4",
+   "in": 0,
+   "dur": 5
+  },
+  {
+   "shot": "S11",
+   "file": "clips/S11.mp4",
+   "in": 0,
+   "dur": 8
+  },
+  {
+   "shot": "S12",
+   "file": "clips/S12.mp4",
+   "in": 0,
+   "dur": 10.5
+  },
+  {
+   "shot": "S13",
+   "file": "clips/S13.mp4",
+   "in": 0,
+   "dur": 5
+  },
+  {
+   "shot": "S14",
+   "file": "clips/S14.mp4",
+   "in": 0,
+   "dur": 3.5
+  },
+  {
+   "shot": "S15",
+   "file": "clips/S15.mp4",
+   "in": 0,
+   "dur": 5
+  }
+ ],
+ "plate": {
+  "image": "plate_mist.png",
+  "at": 75.0,
+  "dissolve": 1.0
+ },
+ "vo": [
+  {
+   "file": "vo/n_godsaid.mp3",
+   "at": 0.5
+  },
+  {
+   "file": "vo/g01.mp3",
+   "at": 2.1,
+   "gain_db": 1
+  },
+  {
+   "file": "vo/n02a.mp3",
+   "at": 13.0
+  },
+  {
+   "file": "vo/n02b.mp3",
+   "at": 16.3
+  },
+  {
+   "file": "vo/n02c.mp3",
+   "at": 23.8
+  },
+  {
+   "file": "vo/n03.mp3",
+   "at": 31.8
+  },
+  {
+   "file": "vo/g02.mp3",
+   "at": 34.4,
+   "gain_db": 1
+  },
+  {
+   "file": "vo/n04.mp3",
+   "at": 45.0
+  },
+  {
+   "file": "vo/n_godsaid.mp3",
+   "at": 53.0
+  },
+  {
+   "file": "vo/g03.mp3",
+   "at": 54.6,
+   "gain_db": 1
+  },
+  {
+   "file": "vo/n_itwasso.mp3",
+   "at": 62.8
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.5,
+   "end": 1.5,
+   "text": "And God said,"
+  },
+  {
+   "start": 2.33,
+   "end": 5.96,
+   "text": "Let the waters bring forth / abundantly the moving creature / that hath life,"
+  },
+  {
+   "start": 6.31,
+   "end": 9.89,
+   "text": "and fowl that may fly / above the earth in the open / firmament of heaven."
+  },
+  {
+   "start": 13.0,
+   "end": 15.5,
+   "text": "And God created great whales,"
+  },
+  {
+   "start": 16.3,
+   "end": 18.5,
+   "text": "and every living creature / that moveth,"
+  },
+  {
+   "start": 18.97,
+   "end": 21.16,
+   "text": "which the waters brought forth / abundantly,"
+  },
+  {
+   "start": 21.86,
+   "end": 22.98,
+   "text": "after their kind,"
+  },
+  {
+   "start": 23.8,
+   "end": 26.27,
+   "text": "and every winged fowl / after his kind:"
+  },
+  {
+   "start": 26.89,
+   "end": 28.7,
+   "text": "and God saw that it was good."
+  },
+  {
+   "start": 31.8,
+   "end": 34.0,
+   "text": "And God blessed them, saying,"
+  },
+  {
+   "start": 34.7,
+   "end": 36.61,
+   "text": "Be fruitful, and multiply,"
+  },
+  {
+   "start": 36.99,
+   "end": 38.56,
+   "text": "and fill the waters in the seas,"
+  },
+  {
+   "start": 38.93,
+   "end": 40.78,
+   "text": "and let fowl multiply / in the earth."
+  },
+  {
+   "start": 45.0,
+   "end": 48.3,
+   "text": "And the evening and the morning / were the fifth day."
+  },
+  {
+   "start": 53.0,
+   "end": 54.0,
+   "text": "And God said,"
+  },
+  {
+   "start": 54.87,
+   "end": 57.95,
+   "text": "Let the earth bring forth / the living creature"
+  },
+  {
+   "start": 58.22,
+   "end": 59.82,
+   "text": "after his kind, / cattle, and creeping thing,"
+  },
+  {
+   "start": 60.21,
+   "end": 62.09,
+   "text": "and beast of the earth / after his kind:"
+  },
+  {
+   "start": 62.8,
+   "end": 63.8,
+   "text": "and it was so."
+  }
+ ],
+ "title": {
+  "text": "THE FIFTH DAY",
+  "start": 48.7,
+  "end": 51.1
+ },
+ "bed": {
+  "source": "ep01_soundbed.wav",
+  "segments": [
+   {
+    "at": 0.0,
+    "src": 6.0,
+    "dur": 11.75,
+    "fin": 0.3
+   },
+   {
+    "at": 11.0,
+    "src": 14.0,
+    "dur": 5.75
+   },
+   {
+    "at": 16.0,
+    "src": 27.0,
+    "dur": 6.75
+   },
+   {
+    "at": 22.0,
+    "src": 33.0,
+    "dur": 17.75
+   },
+   {
+    "at": 39.0,
+    "src": 38.0,
+    "dur": 6.45
+   },
+   {
+    "at": 44.7,
+    "src": 51.0,
+    "dur": 7.5
+   },
+   {
+    "at": 51.5,
+    "src": 33.0,
+    "dur": 17.75
+   },
+   {
+    "at": 68.5,
+    "src": 38.0,
+    "dur": 7.45
+   },
+   {
+    "at": 75.45,
+    "src": 30.0,
+    "dur": 7.55
+   }
+  ],
+  "tail_fade": 4.0
+ },
+ "watermark": {
+  "file": "wm_full.png",
+  "start": 0.0,
+  "end": 76.2
+ },
+ "endcard": {
+  "file": "ep03b_endcard.png",
+  "start": 76.2
+ }
+}
