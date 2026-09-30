@@ -84,8 +84,8 @@
     {
       "ep": "03A",
       "network": "instagram",
-      "at": "2026-10-01T18:00",
-      "metricool_id": 384959326,
+      "at": "2026-10-01T10:00",
+      "metricool_id": 385218348,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     },
     {
@@ -105,8 +105,8 @@
     {
       "ep": "03B",
       "network": "instagram",
-      "at": "2026-10-02T18:00",
-      "metricool_id": 385030961,
+      "at": "2026-10-02T10:00",
+      "metricool_id": 385218460,
       "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
     },
     {
@@ -126,8 +126,8 @@
     {
       "ep": "04A",
       "network": "instagram",
-      "at": "2026-10-03T18:00",
-      "metricool_id": 385206444,
+      "at": "2026-10-03T10:00",
+      "metricool_id": 385218554,
       "media": "genesis_ep04a_in_his_image_tiktok_cover.mp4"
     },
     {
@@ -147,10 +147,10 @@
     {
       "ep": "04B",
       "network": "instagram",
-      "at": "2026-10-04T18:00",
-      "metricool_id": 385206634,
+      "at": "2026-10-04T10:00",
+      "metricool_id": 385218763,
       "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
     }
   ],
-  "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels (02A posted the morning of Sep 30)"
+  "cadence": "one episode per day: Instagram 10:00, TikTok + YouTube Shorts 18:00 (America/Puerto_Rico)"
 }
