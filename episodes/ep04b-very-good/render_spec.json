@@ -1,0 +1,275 @@
+{
+ "name": "genesis_ep04b_very_good",
+ "runtime": 62.0,
+ "clips": [
+  {
+   "shot": "S01",
+   "file": "clips/S01.mp4",
+   "in": 0,
+   "dur": 4.5
+  },
+  {
+   "shot": "S02",
+   "file": "clips/S02.mp4",
+   "in": 0,
+   "dur": 5.5
+  },
+  {
+   "shot": "R03",
+   "file": "clips/R03.mp4",
+   "in": 0.5,
+   "dur": 4.3
+  },
+  {
+   "shot": "S04",
+   "file": "clips/S04.mp4",
+   "in": 0.3,
+   "dur": 2.5
+  },
+  {
+   "shot": "S05",
+   "file": "clips/S05.mp4",
+   "in": 0.3,
+   "dur": 3.5
+  },
+  {
+   "shot": "S06",
+   "file": "clips/S06.mp4",
+   "in": 0,
+   "dur": 5.0
+  },
+  {
+   "shot": "R07",
+   "file": "clips/R07.mp4",
+   "in": 0.5,
+   "dur": 4.2
+  },
+  {
+   "shot": "M01",
+   "file": "clips/M01.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M02",
+   "file": "clips/M02.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M03",
+   "file": "clips/M03.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M04",
+   "file": "clips/M04.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M05",
+   "file": "clips/M05.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M06",
+   "file": "clips/M06.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M07",
+   "file": "clips/M07.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M08",
+   "file": "clips/M08.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M09",
+   "file": "clips/M09.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "M10",
+   "file": "clips/M10.mp4",
+   "in": 0.4,
+   "dur": 1.75
+  },
+  {
+   "shot": "S12",
+   "file": "clips/S12.mp4",
+   "in": 0,
+   "dur": 8.0
+  }
+ ],
+ "plate": {
+  "image": "plate_mist.png",
+  "at": 54.0,
+  "dissolve": 1.0
+ },
+ "vo": [
+  {
+   "file": "vo/n_godsaid.mp3",
+   "at": 3.0
+  },
+  {
+   "file": "vo/g03.mp3",
+   "at": 4.5,
+   "gain_db": 1
+  },
+  {
+   "file": "vo/g04.mp3",
+   "at": 16.5,
+   "gain_db": 1
+  },
+  {
+   "file": "vo/n_itwasso.mp3",
+   "at": 27.4
+  },
+  {
+   "file": "vo/n05.mp3",
+   "at": 31.0
+  },
+  {
+   "file": "vo/n06.mp3",
+   "at": 48.0
+  }
+ ],
+ "captions": [
+  {
+   "start": 3.0,
+   "end": 4.0,
+   "text": "And God said,"
+  },
+  {
+   "start": 4.8,
+   "end": 7.76,
+   "text": "Behold, I have given you / every herb bearing seed,"
+  },
+  {
+   "start": 8.18,
+   "end": 9.86,
+   "text": "which is upon the face / of all the earth,"
+  },
+  {
+   "start": 10.27,
+   "end": 13.76,
+   "text": "and every tree, in the which / is the fruit of a tree yielding seed;"
+  },
+  {
+   "start": 14.36,
+   "end": 15.67,
+   "text": "to you it shall be for meat."
+  },
+  {
+   "start": 16.84,
+   "end": 18.22,
+   "text": "And to every beast of the earth,"
+  },
+  {
+   "start": 18.54,
+   "end": 19.99,
+   "text": "and to every fowl of the air,"
+  },
+  {
+   "start": 20.41,
+   "end": 22.38,
+   "text": "and to every thing / that creepeth upon the earth,"
+  },
+  {
+   "start": 22.81,
+   "end": 23.84,
+   "text": "wherein there is life,"
+  },
+  {
+   "start": 24.39,
+   "end": 26.63,
+   "text": "I have given every green herb / for meat:"
+  },
+  {
+   "start": 27.4,
+   "end": 28.4,
+   "text": "and it was so."
+  },
+  {
+   "start": 31.0,
+   "end": 33.28,
+   "text": "And God saw every thing / that he had made,"
+  },
+  {
+   "start": 33.88,
+   "end": 36.33,
+   "text": "and, behold, it was very good."
+  },
+  {
+   "start": 48.0,
+   "end": 51.3,
+   "text": "And the evening and the morning / were the sixth day."
+  }
+ ],
+ "bed": {
+  "source": "ep01_soundbed.wav",
+  "segments": [
+   {
+    "at": 0,
+    "src": 6,
+    "dur": 11.75,
+    "fin": 0.3
+   },
+   {
+    "at": 11,
+    "src": 14,
+    "dur": 5.75
+   },
+   {
+    "at": 16,
+    "src": 27,
+    "dur": 6.75
+   },
+   {
+    "at": 22,
+    "src": 33,
+    "dur": 17.75
+   },
+   {
+    "at": 39,
+    "src": 38,
+    "dur": 8.95
+   },
+   {
+    "at": 46.7,
+    "src": 51,
+    "dur": 7.5
+   },
+   {
+    "at": 54.45,
+    "src": 30,
+    "dur": 7.55
+   }
+  ],
+  "tail_fade": 4.0
+ },
+ "watermark": {
+  "file": "wm_full.png",
+  "start": 0.0,
+  "end": 55.2
+ },
+ "endcard": {
+  "file": "ep04b_endcard.png",
+  "start": 55.2
+ },
+ "title": {
+  "text": "THE SIXTH DAY",
+  "start": 51.7,
+  "end": 54.1
+ }
+}

@@ -13,8 +13,8 @@ The master numbering (1–148) is fixed. When a roadmap episode cannot fit in **
 | 02B | The Dry Land | Genesis 1:9–13 | — | 77.0 | ✅ Produced (video, cover, spec) | `episodes/ep02b-the-dry-land/` |
 | 03A | Signs and Seasons | Genesis 1:14–19 | 1:17–18 | 72.0 | ✅ Produced (video, cover, spec) | `episodes/ep03a-signs-and-seasons/` |
 | 03B | The Living World | Genesis 1:20–25 | 1:25 | 83.0 | ✅ Produced (video, cover, spec) | `episodes/ep03b-the-living-world/` |
-| 04A | In His Image | Genesis 1:26–28 | — | 85.0 | 📝 Package written | `episodes/ep04a-in-his-image/` |
-| 04B | Very Good | Genesis 1:29–31 | — | 79.6 | 📝 Package written | `episodes/ep04b-very-good/` |
+| 04A | In His Image | Genesis 1:26–28 | — | 62.0 | ✅ Produced (video, cover, spec) | `episodes/ep04a-in-his-image/` |
+| 04B | Very Good | Genesis 1:29–31 | — | 62.0 | ✅ Produced (video, cover, spec) | `episodes/ep04b-very-good/` |
 | 05 | The Seventh Day | Genesis 2:1–3 | — | 64.9 | 📝 Package written | `episodes/ep05-the-seventh-day/` |
 | 06A | A Living Soul | Genesis 2:4–7 | — | 81.2 | 📝 Package written | `episodes/ep06a-a-living-soul/` |
 | 06B | The Garden | Genesis 2:8–15 | 2:11–14 | 75.5 | 📝 Package written | `episodes/ep06b-the-garden/` |

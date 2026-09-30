@@ -1,0 +1,242 @@
+{
+ "name": "genesis_ep04a_in_his_image",
+ "runtime": 62.0,
+ "clips": [
+  {
+   "shot": "S01",
+   "file": "clips/S01.mp4",
+   "in": 0,
+   "dur": 5.5
+  },
+  {
+   "shot": "R02",
+   "file": "clips/R02.mp4",
+   "in": 0.5,
+   "dur": 2.8
+  },
+  {
+   "shot": "R03",
+   "file": "clips/R03.mp4",
+   "in": 0.5,
+   "dur": 2.0
+  },
+  {
+   "shot": "R04",
+   "file": "clips/R04.mp4",
+   "in": 0.5,
+   "dur": 1.4
+  },
+  {
+   "shot": "S05",
+   "file": "clips/S05.mp4",
+   "in": 0.3,
+   "dur": 1.7
+  },
+  {
+   "shot": "R06",
+   "file": "clips/R06.mp4",
+   "in": 0.3,
+   "dur": 4.1
+  },
+  {
+   "shot": "S07",
+   "file": "clips/S07.mp4",
+   "in": 0,
+   "dur": 7.0
+  },
+  {
+   "shot": "S08",
+   "file": "clips/S08.mp4",
+   "in": 0,
+   "dur": 7.5
+  },
+  {
+   "shot": "S09",
+   "file": "clips/S09.mp4",
+   "in": 0,
+   "dur": 6.5
+  },
+  {
+   "shot": "S10",
+   "file": "clips/S10.mp4",
+   "in": 0,
+   "dur": 6.0
+  },
+  {
+   "shot": "S11",
+   "file": "clips/S11.mp4",
+   "in": 0,
+   "dur": 10.5
+  }
+ ],
+ "plate": {
+  "image": "plate_mist.png",
+  "at": 54.0,
+  "dissolve": 1.0
+ },
+ "vo": [
+  {
+   "file": "vo/n_godsaid.mp3",
+   "at": 0.5
+  },
+  {
+   "file": "vo/g01.mp3",
+   "at": 2.0,
+   "gain_db": 1
+  },
+  {
+   "file": "vo/n02a.mp3",
+   "at": 19.0
+  },
+  {
+   "file": "vo/n02b.mp3",
+   "at": 23.0
+  },
+  {
+   "file": "vo/n02c.mp3",
+   "at": 27.0
+  },
+  {
+   "file": "vo/n03.mp3",
+   "at": 33.0
+  },
+  {
+   "file": "vo/g02.mp3",
+   "at": 36.3,
+   "gain_db": 1
+  }
+ ],
+ "captions": [
+  {
+   "start": 0.5,
+   "end": 1.5,
+   "text": "And God said,"
+  },
+  {
+   "start": 2.37,
+   "end": 3.93,
+   "text": "Let us make man in our image,"
+  },
+  {
+   "start": 4.16,
+   "end": 5.16,
+   "text": "after our likeness:"
+  },
+  {
+   "start": 5.74,
+   "end": 8.05,
+   "text": "and let them have dominion / over the fish of the sea,"
+  },
+  {
+   "start": 8.55,
+   "end": 9.85,
+   "text": "and over the fowl of the air,"
+  },
+  {
+   "start": 10.37,
+   "end": 11.21,
+   "text": "and over the cattle,"
+  },
+  {
+   "start": 11.72,
+   "end": 12.83,
+   "text": "and over all the earth,"
+  },
+  {
+   "start": 13.39,
+   "end": 16.45,
+   "text": "and over every creeping thing / that creepeth upon the earth."
+  },
+  {
+   "start": 19.0,
+   "end": 22.3,
+   "text": "So God created man / in his own image,"
+  },
+  {
+   "start": 23.0,
+   "end": 26.2,
+   "text": "in the image of God / created he him;"
+  },
+  {
+   "start": 27.0,
+   "end": 30.4,
+   "text": "male and female / created he them."
+  },
+  {
+   "start": 33.0,
+   "end": 35.9,
+   "text": "And God blessed them, / and God said unto them,"
+  },
+  {
+   "start": 36.67,
+   "end": 39.35,
+   "text": "Be fruitful, and multiply, / and replenish the earth,"
+  },
+  {
+   "start": 39.65,
+   "end": 40.41,
+   "text": "and subdue it:"
+  },
+  {
+   "start": 40.88,
+   "end": 42.68,
+   "text": "and have dominion / over the fish of the sea,"
+  },
+  {
+   "start": 43.07,
+   "end": 44.32,
+   "text": "and over the fowl of the air,"
+  },
+  {
+   "start": 44.75,
+   "end": 47.22,
+   "text": "and over every living thing / that moveth upon the earth."
+  }
+ ],
+ "bed": {
+  "source": "ep01_soundbed.wav",
+  "segments": [
+   {
+    "at": 0,
+    "src": 6,
+    "dur": 11.75,
+    "fin": 0.3
+   },
+   {
+    "at": 11,
+    "src": 14,
+    "dur": 5.75
+   },
+   {
+    "at": 16,
+    "src": 27,
+    "dur": 6.75
+   },
+   {
+    "at": 22,
+    "src": 33,
+    "dur": 17.75
+   },
+   {
+    "at": 39,
+    "src": 33,
+    "dur": 15.75
+   },
+   {
+    "at": 54.45,
+    "src": 30,
+    "dur": 7.55
+   }
+  ],
+  "tail_fade": 4.0
+ },
+ "watermark": {
+  "file": "wm_full.png",
+  "start": 0.0,
+  "end": 55.2
+ },
+ "endcard": {
+  "file": "ep04a_endcard.png",
+  "start": 55.2
+ }
+}
