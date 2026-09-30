@@ -109,10 +109,10 @@ def srt(b):
 
 def fill(path, tag, body):
     s = open(path).read()
-    pat = re.compile(rf"(<!-- BEGIN:{tag} -->\n).*?(\n<!-- END:{tag} -->)", re.S)
+    pat = re.compile(rf"(<!-- BEGIN:{tag} -->\n).*?(<!-- END:{tag} -->)", re.S)
     if not pat.search(s):
         return False
-    s = pat.sub(lambda m: m.group(1) + body + m.group(2), s)
+    s = pat.sub(lambda m: m.group(1) + body + "\n" + m.group(2), s)
     open(path, "w").write(s)
     return True
 
@@ -145,7 +145,7 @@ def main():
             fill(pkg[0], "CAPTIONS", md_captions(b))
             fill(pkg[0], "SCRIPT", md_script(b))
             fill(pkg[0], "PASSAGE", md_passage(b))
-            open(os.path.join(d, f"ep{ep.lower()}_captions_KJV.srt"), "w").write(srt(b))
+            open(os.path.join(d, f"ep{ep.lower()}_captions_planned.srt"), "w").write(srt(b))
         if pkg:
             b["errors"] += [f"script line not KJV: {l}" for l in quoted_lines_ok(pkg[0], b)]
         for e in b["errors"]:

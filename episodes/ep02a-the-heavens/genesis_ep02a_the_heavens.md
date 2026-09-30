@@ -362,14 +362,41 @@ Slow tilt down from the sky to the sea, then a slow push toward the water surfac
 
 ## FULL SCRIPT — EPISODE 02A
 <!-- BEGIN:SCRIPT -->
+> **NARRATOR — KJV** (Genesis 1:6)  
+> And God said,
+>
+> **GOD — KJV**  
+> Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+>
+> **NARRATOR — KJV** (Genesis 1:7)  
+> And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
+>
+> **NARRATOR — KJV** (Genesis 1:8)  
+> And God called the firmament Heaven. And the evening and the morning were the second day.
+
+**Adaptation lines:** none. Every spoken word in this episode is KJV.
 <!-- END:SCRIPT -->
 
 ## FULL PASSAGE (KJV)
 <!-- BEGIN:PASSAGE -->
+**1:6** And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.  
+**1:7** And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.  
+**1:8** And God called the firmament Heaven. And the evening and the morning were the second day.  
 <!-- END:PASSAGE -->
 
 ## CAPTION TRACK (burned-in, per Bible §11)
 <!-- BEGIN:CAPTIONS -->
+| # | In | Out | Voice | Caption |
+|---|---|---|---|---|
+| 1 | 0:00.6 | 0:02.4 | NARRATOR | And God said, |
+| 2 | 0:02.6 | 0:08.7 | GOD | Let there be a firmament / in the midst of the waters, |
+| 3 | 0:08.9 | 0:13.9 | GOD | and let it divide the waters / from the waters. |
+| 4 | 0:20.4 | 0:23.1 | NARRATOR | And God made the firmament, |
+| 5 | 0:23.4 | 0:28.2 | NARRATOR | and divided the waters / which were under the firmament |
+| 6 | 0:28.5 | 0:32.7 | NARRATOR | from the waters / which were above the firmament: |
+| 7 | 0:33.7 | 0:36.0 | NARRATOR | and it was so. |
+| 8 | 0:42.0 | 0:45.2 | NARRATOR | And God called / the firmament Heaven. |
+| 9 | 0:49.7 | 0:55.0 | NARRATOR | And the evening and the morning / were the second day. |
 <!-- END:CAPTIONS -->
 
 Keep the screen free of captions from 0:14 to 0:20 (the first sky, S04) and from 0:36 to 0:42.
@@ -423,6 +450,25 @@ Keep the screen free of captions from 0:14 to 0:20 (the first sky, S04) and from
 - **Cuts:** straight cuts, except S04→S05, a soft 8-frame dissolve from the high wide to the water detail, and S10, which dissolves into the end card.
 - **Grade:** the first pale blue enters at S04. Keep the rest neutral and restrained per the Creation color script. No warm push: there is no sun.
 - **Timing:** re-time shots to the recorded narration. The cue sheet assumes about 120 wpm.
+
+---
+
+## AS PRODUCED (render v1)
+
+The episode was produced from this package; the table below records what changed in production. `render_spec.json` is the source of truth for the cut.
+
+| Item | Package plan | As produced | Why |
+|---|---|---|---|
+| Narration pace | ~120 wpm estimate | Recorded VO runs about 2.8 words/s | TTS delivery is faster than the estimate, so lines were spaced across the picture to keep the runtime at 64.5 s with no silence over ~9 s |
+| GOD voice | Desmond (Seed Audio, as Ep 01) | Desmond (**Seed Speech** engine) | Seed Audio failed 6 times on this line; Seed Speech uses the same preset voice. Re-record on Seed Audio later if the timbre differs noticeably from Ep 01. |
+| "And God said," | New take | Reused Ep 01 take | Same line, same voice: consistency and zero cost |
+| S04 | 6 s | 5 s | Radial "god rays" start forming in the last second; trimmed |
+| S06 | Tilt to the ceiling, 6 s | First 4 s only | The end of the tilt shows a seamed, box-like ceiling |
+| S10 → end card | End card over S10 | S10 dissolves into the **series end-card plate** (Ep 01 golden mist) at 0:56 | The Ep 01 card has dark text designed for a bright plate; the plate keeps every episode's card legible and consistent |
+| Keyframes k06, k07, k10 | Ep 01 approved frame as style reference | Regenerated using this episode's k05 as reference | The Ep 01 frame's sunburst produced sun-like glows on the horizon (no sun before Day 4) |
+| Soundbed | New cue sheet | Built from Ep 01's soundbed segments (see spec) | Keeps the water, M-01 and the day frame-drum stroke identical across episodes |
+
+**Caption timings as rendered:** `ep02a_captions_KJV.srt`. The planned timings from the cue sheet are in `ep02a_captions_planned.srt`.
 
 ## SUGGESTED POST CAPTION (TikTok)
 `Genesis 1:6–8 (KJV) · Day Two. "And God called the firmament Heaven." Episode 2A of the Book of Genesis as an anime series. Follow @AnimeBibleTok for Episode 2B. #Genesis #KJV #Bible #anime #AnimeBibleTok`

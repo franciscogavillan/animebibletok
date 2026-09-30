@@ -1,0 +1,53 @@
+{
+  "name": "genesis_ep02a_the_heavens",
+  "runtime": 64.5,
+  "clips": [
+    {"shot": "S01", "file": "clips/S01.mp4", "in": 0, "dur": 3.0, "job": "083aa53f-63d3-4770-8e91-ac28e54db881"},
+    {"shot": "S02", "file": "clips/S02.mp4", "in": 0, "dur": 6.0, "job": "4b56aa59-fdc1-4046-b45f-b09406449f2e"},
+    {"shot": "S03", "file": "clips/S03.mp4", "in": 0, "dur": 6.0, "job": "0e0d0e16-415e-4666-8d9e-8c712dc411e0"},
+    {"shot": "S04", "file": "clips/S04.mp4", "in": 0, "dur": 5.0, "job": "dcc6e628-a413-4704-8093-a27c0cd2d3ce", "note": "trimmed before radial rays form"},
+    {"shot": "S05", "file": "clips/S05.mp4", "in": 0, "dur": 6.0, "job": "cc831643-3b1e-4039-a3d1-f57737a12de1"},
+    {"shot": "S06", "file": "clips/S06.mp4", "in": 0, "dur": 4.0, "job": "68510850-bc3b-4884-9973-fb7d50f53a07", "note": "tilt ends on a seamed ceiling; use first 4 s"},
+    {"shot": "S07", "file": "clips/S07.mp4", "in": 0, "dur": 7.0, "job": "5c1c418b-bdd5-43fd-8c46-92afd9c9f2eb"},
+    {"shot": "S08", "file": "clips/S08.mp4", "in": 0, "dur": 6.0, "job": "cb850f95-45da-41d3-a24a-bfccb342dcd4"},
+    {"shot": "S09", "file": "clips/S09.mp4", "in": 0, "dur": 8.0, "job": "64672914-5c7e-4167-b1bc-974895cb1109"},
+    {"shot": "S10", "file": "clips/S10.mp4", "in": 0, "dur": 6.0, "job": "db6f990c-2f03-4e30-9de5-87617f5614d2", "note": "dissolves to the mist plate before the foam texture degrades"}
+  ],
+  "plate": {"image": "plate_mist.png", "at": 56.0, "dissolve": 1.0, "note": "series end-card plate: last frame of Ep 01 S09 (golden mist)"},
+  "vo": [
+    {"file": "vo/n01.mp3", "at": 0.5,  "who": "NARRATOR (Arthur, ElevenLabs; reused from Ep 01)", "text": "And God said,"},
+    {"file": "vo/g01.mp3", "at": 1.7,  "gain_db": 1, "who": "GOD (Desmond, Seed Speech)", "text": "Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."},
+    {"file": "vo/n02.mp3", "at": 12.0, "who": "NARRATOR", "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament:"},
+    {"file": "vo/n03.mp3", "at": 23.5, "who": "NARRATOR", "text": "and it was so."},
+    {"file": "vo/n04.mp3", "at": 32.5, "who": "NARRATOR", "text": "And God called the firmament Heaven."},
+    {"file": "vo/n05.mp3", "at": 44.0, "who": "NARRATOR", "text": "And the evening and the morning were the second day."}
+  ],
+  "captions": [
+    {"start": 0.50,  "end": 1.85,  "text": "And God said,"},
+    {"start": 1.95,  "end": 4.35,  "text": "Let there be a firmament / in the midst of the waters,"},
+    {"start": 4.55,  "end": 7.00,  "text": "and let it divide the waters / from the waters."},
+    {"start": 12.00, "end": 14.05, "text": "And God made the firmament,"},
+    {"start": 14.20, "end": 16.90, "text": "and divided the waters / which were under the firmament"},
+    {"start": 16.95, "end": 19.40, "text": "from the waters / which were above the firmament:"},
+    {"start": 23.50, "end": 24.80, "text": "and it was so."},
+    {"start": 32.50, "end": 35.40, "text": "And God called / the firmament Heaven."},
+    {"start": 44.00, "end": 47.60, "text": "And the evening and the morning / were the second day."}
+  ],
+  "title": {"text": "THE SECOND DAY", "start": 47.9, "end": 50.4},
+  "bed": {
+    "source": "ep01_soundbed.wav",
+    "note": "built from Ep 01's approved soundbed so water, M-01 and the day drum stroke match across episodes",
+    "segments": [
+      {"at": 0.0,   "src": 6.0,  "dur": 9.75, "fin": 0.3, "use": "fog-dampened sea"},
+      {"at": 9.0,   "src": 14.0, "dur": 6.75, "use": "air rush as the waters divide"},
+      {"at": 15.0,  "src": 27.0, "dur": 6.75, "use": "sound opens + M-01 blooms: the first sky"},
+      {"at": 21.0,  "src": 33.0, "dur": 17.75, "use": "M-01 held over water"},
+      {"at": 38.0,  "src": 38.0, "dur": 6.45, "use": "M-01 continues"},
+      {"at": 43.7,  "src": 51.0, "dur": 7.5, "use": "evening dip, morning rise, frame-drum stroke at 47.9"},
+      {"at": 50.45, "src": 30.0, "dur": 14.05, "use": "morning water + M-01 under the end card"}
+    ],
+    "tail_fade": 4.0
+  },
+  "watermark": {"file": "wm_full.png", "start": 0.0, "end": 57.2},
+  "endcard": {"file": "ep02a_endcard.png", "start": 57.2}
+}
