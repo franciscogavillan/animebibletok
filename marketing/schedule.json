@@ -49,24 +49,24 @@
     {
       "ep": "02B",
       "network": "tiktok",
-      "at": "2026-10-01T18:00",
-      "metricool_id": 384769037,
+      "at": "2026-10-01T06:00",
+      "metricool_id": 384772587,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     },
     {
       "ep": "02B",
       "network": "youtube",
-      "at": "2026-10-01T18:00",
-      "metricool_id": 384769130,
+      "at": "2026-10-01T06:00",
+      "metricool_id": 384772627,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     },
     {
       "ep": "02B",
       "network": "instagram",
-      "at": "2026-10-01T18:00",
-      "metricool_id": 384769416,
+      "at": "2026-10-01T06:00",
+      "metricool_id": 384772652,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     }
   ],
-  "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels"
+  "cadence": "one episode every 12 hours: 06:00 and 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels"
 }
