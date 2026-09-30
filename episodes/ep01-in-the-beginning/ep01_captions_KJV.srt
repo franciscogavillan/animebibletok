@@ -1,0 +1,49 @@
+1
+00:00:00,500 --> 00:00:05,500
+In the beginning God created
+the heaven and the earth.
+
+2
+00:00:06,500 --> 00:00:10,000
+And the earth was without form,
+and void;
+
+3
+00:00:10,000 --> 00:00:13,800
+and darkness was upon
+the face of the deep.
+
+4
+00:00:14,500 --> 00:00:20,500
+And the Spirit of God moved
+upon the face of the waters.
+
+5
+00:00:24,500 --> 00:00:27,000
+And God said,
+Let there be light:
+
+6
+00:00:28,000 --> 00:00:30,000
+and there was light.
+
+7
+00:00:31,000 --> 00:00:35,500
+And God saw the light,
+that it was good:
+
+8
+00:00:37,500 --> 00:00:42,000
+and God divided the light
+from the darkness.
+
+9
+00:00:43,500 --> 00:00:49,200
+And God called the light Day,
+and the darkness he called Night.
+
+10
+00:00:50,500 --> 00:00:55,800
+And the evening and the morning
+were the first day.
+
