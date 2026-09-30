@@ -108,6 +108,48 @@
       "at": "2026-10-02T18:00",
       "metricool_id": 385030961,
       "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
+    },
+    {
+      "ep": "04A",
+      "network": "tiktok",
+      "at": "2026-10-03T18:00",
+      "metricool_id": 385206347,
+      "media": "genesis_ep04a_in_his_image_tiktok_cover.mp4"
+    },
+    {
+      "ep": "04A",
+      "network": "youtube",
+      "at": "2026-10-03T18:00",
+      "metricool_id": 385206401,
+      "media": "genesis_ep04a_in_his_image_tiktok_cover.mp4"
+    },
+    {
+      "ep": "04A",
+      "network": "instagram",
+      "at": "2026-10-03T18:00",
+      "metricool_id": 385206444,
+      "media": "genesis_ep04a_in_his_image_tiktok_cover.mp4"
+    },
+    {
+      "ep": "04B",
+      "network": "tiktok",
+      "at": "2026-10-04T18:00",
+      "metricool_id": 385206487,
+      "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
+    },
+    {
+      "ep": "04B",
+      "network": "youtube",
+      "at": "2026-10-04T18:00",
+      "metricool_id": 385206586,
+      "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
+    },
+    {
+      "ep": "04B",
+      "network": "instagram",
+      "at": "2026-10-04T18:00",
+      "metricool_id": 385206634,
+      "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
     }
   ],
   "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels (02A posted the morning of Sep 30)"
