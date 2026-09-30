@@ -137,6 +137,43 @@ Keywords to rotate naturally into captions: *Genesis 1 KJV, creation story, Bibl
 
 ---
 
+## 8. YouTube Shorts (and why YouTube may be the better long-term home)
+
+**Verdict: yes, post every episode as a Short. Plan YouTube long-form as the main monetization path.**
+
+| | TikTok | YouTube Shorts | YouTube long-form |
+|---|---|---|---|
+| Our 61–90 s episodes | ✅ | ✅ (Shorts allow up to 3 min; original audio, so no 60 s music cap) | — |
+| Discovery lifespan | Days | Weeks to months | **Years** (search + suggested) |
+| Monetization bar | CRP: 10k followers, 100k views/30 days; AI-visual risk | YPP: 1,000 subs + **10M Shorts views/90 days**, or 1,000 subs + **4,000 long-form watch hours/12 months** | Same YPP; far higher RPM than Shorts |
+| AI policy | Fully AI videos reportedly excluded from CRP | Targets *mass-produced, template, low-effort* content ("inauthentic content"). A recurring series format is explicitly OK if each video is materially different and has creative value | Same |
+
+**Why this series fits YouTube well:** it is a *serialized, authored, Scripture-accurate* show, which is the opposite of the "generic/repetitive AI slop" YouTube is removing. Each episode is different text, different shots, different sound. Human narration still strengthens the originality case. Bible content is also evergreen search traffic ("Genesis 1 KJV", "creation story", "Adam and Eve"), and the audience skews older, which suits the KJV.
+
+**Strategy: Shorts as the funnel, long-form as the product.**
+1. Upload each episode as a Short the same day as TikTok (same master; the in-video @AnimeBibleTok badge is fine).
+2. When an arc is complete, publish a **long-form compilation** (Arc I: Genesis 1–3, about 23 min) with chapters per episode. This is what builds the 4,000 watch hours.
+3. Set every Short's **Related video** link to the current arc compilation, so Shorts viewers are sent into long-form.
+
+**Shorts upload template**
+- **Title:** `In the Beginning | Genesis 1:1–5 KJV | Bible Anime Ep 1`
+- **Description:** first line is the hook verse; then the full KJV passage; then `Episode 1 of the Book of Genesis as an anime, every word from the King James Bible.`; then the playlist link; then 3 hashtags: `#genesis #bible #anime`
+- **Playlist:** `GENESIS — The Anime (in order)` (same as TikTok)
+- **Disclosure:** YouTube's "altered or synthetic content" setting is aimed at *realistic* content. This series is clearly stylized anime, but if in doubt, disclose. Disclosure does not reduce reach.
+- **Pinned comment:** `Every spoken word is from the King James Bible. Full series in order: [playlist]`
+
+**Also cross-post to Instagram Reels** (up to 3 min): same file, same caption as TikTok, and the playlist in the bio link.
+
+Sources for this section:
+- [YouTube Shorts monetization policies — YouTube Help](https://support.google.com/youtube/answer/12504220?hl=en)
+- [YouTube channel monetization policies — YouTube Help](https://support.google.com/youtube/answer/1311392?hl=en)
+- [YouTube clarifies creators can't monetize "generic or repetitive" content — Tubefilter](https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/)
+- [YouTube clarifies policies around AI slop — TechCrunch](https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/)
+- [How Long Can YouTube Shorts Be in 2026 — Argil](https://www.argil.ai/blog/how-long-can-youtube-shorts-be)
+- [YouTube Shorts Monetization in 2026 — vidIQ](https://vidiq.com/blog/post/youtube-shorts-monetization/)
+
+---
+
 ## Sources
 - [How the TikTok algorithm works in 2026 — Hootsuite](https://blog.hootsuite.com/tiktok-algorithm/)
 - [TikTok Algorithm 2026: How to Win With Rewatches — Darkroom](https://www.darkroomagency.com/observatory/how-tiktok%E2%80%99s-algorithm-works-in-2026-and-15-tactics-to-go-viral)
