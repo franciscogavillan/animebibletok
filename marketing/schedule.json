@@ -87,6 +87,27 @@
       "at": "2026-10-01T18:00",
       "metricool_id": 384959326,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
+    },
+    {
+      "ep": "03B",
+      "network": "tiktok",
+      "at": "2026-10-02T18:00",
+      "metricool_id": 385030576,
+      "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
+    },
+    {
+      "ep": "03B",
+      "network": "youtube",
+      "at": "2026-10-02T18:00",
+      "metricool_id": 385030907,
+      "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
+    },
+    {
+      "ep": "03B",
+      "network": "instagram",
+      "at": "2026-10-02T18:00",
+      "metricool_id": 385030961,
+      "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
     }
   ],
   "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels (02A posted the morning of Sep 30)"
