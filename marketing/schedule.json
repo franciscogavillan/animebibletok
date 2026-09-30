@@ -1,0 +1,12 @@
+{
+  "metricool_brand": 7161025,
+  "timezone": "America/Puerto_Rico",
+  "posts": [
+    {"ep": "01",  "network": "tiktok",    "at": "2026-10-01T18:00", "metricool_id": 384742289},
+    {"ep": "01",  "network": "youtube",   "at": "2026-10-01T18:00", "metricool_id": 384742337},
+    {"ep": "01",  "network": "instagram", "at": "2026-10-01T18:00", "metricool_id": 384742354},
+    {"ep": "02A", "network": "tiktok",    "at": "2026-10-02T18:00", "metricool_id": 384742445},
+    {"ep": "02A", "network": "youtube",   "at": "2026-10-02T18:00", "metricool_id": 384742454},
+    {"ep": "02A", "network": "instagram", "at": "2026-10-02T18:00", "metricool_id": 384742469}
+  ]
+}
