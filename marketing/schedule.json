@@ -56,8 +56,8 @@
     {
       "ep": "02B",
       "network": "youtube",
-      "at": "2026-09-30T18:00",
-      "metricool_id": 384959191,
+      "at": "2026-09-30T16:00",
+      "metricool_id": 385219719,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     },
     {
@@ -70,15 +70,15 @@
     {
       "ep": "03A",
       "network": "tiktok",
-      "at": "2026-10-01T18:00",
-      "metricool_id": 384959252,
+      "at": "2026-10-01T10:00",
+      "metricool_id": 385219530,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     },
     {
       "ep": "03A",
       "network": "youtube",
-      "at": "2026-10-01T18:00",
-      "metricool_id": 384959294,
+      "at": "2026-10-01T16:00",
+      "metricool_id": 385219789,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     },
     {
@@ -91,15 +91,15 @@
     {
       "ep": "03B",
       "network": "tiktok",
-      "at": "2026-10-02T18:00",
-      "metricool_id": 385030576,
+      "at": "2026-10-02T10:00",
+      "metricool_id": 385219585,
       "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
     },
     {
       "ep": "03B",
       "network": "youtube",
-      "at": "2026-10-02T18:00",
-      "metricool_id": 385030907,
+      "at": "2026-10-02T16:00",
+      "metricool_id": 385219908,
       "media": "genesis_ep03b_the_living_world_tiktok_cover.mp4"
     },
     {
@@ -112,15 +112,15 @@
     {
       "ep": "04A",
       "network": "tiktok",
-      "at": "2026-10-03T18:00",
-      "metricool_id": 385206347,
+      "at": "2026-10-03T10:00",
+      "metricool_id": 385219617,
       "media": "genesis_ep04a_in_his_image_tiktok_cover.mp4"
     },
     {
       "ep": "04A",
       "network": "youtube",
-      "at": "2026-10-03T18:00",
-      "metricool_id": 385206401,
+      "at": "2026-10-03T16:00",
+      "metricool_id": 385219940,
       "media": "genesis_ep04a_in_his_image_tiktok_cover.mp4"
     },
     {
@@ -133,15 +133,15 @@
     {
       "ep": "04B",
       "network": "tiktok",
-      "at": "2026-10-04T18:00",
-      "metricool_id": 385206487,
+      "at": "2026-10-04T10:00",
+      "metricool_id": 385219667,
       "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
     },
     {
       "ep": "04B",
       "network": "youtube",
-      "at": "2026-10-04T18:00",
-      "metricool_id": 385206586,
+      "at": "2026-10-04T16:00",
+      "metricool_id": 385219966,
       "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
     },
     {
@@ -152,5 +152,5 @@
       "media": "genesis_ep04b_very_good_tiktok_cover.mp4"
     }
   ],
-  "cadence": "one episode per day: Instagram 10:00, TikTok + YouTube Shorts 18:00 (America/Puerto_Rico)"
+  "cadence": "one episode per day at each platform's Metricool best time (America/Puerto_Rico): Instagram 10:00, TikTok 10:00, YouTube Shorts 16:00"
 }
