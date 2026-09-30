@@ -29,65 +29,65 @@
     {
       "ep": "02A",
       "network": "tiktok",
-      "at": "2026-09-30T18:00",
-      "metricool_id": 384749260,
+      "at": "2026-09-30T07:58",
+      "metricool_id": 384959437,
       "media": "genesis_ep02a_the_heavens_tiktok_cover.mp4"
     },
     {
       "ep": "02A",
       "network": "youtube",
-      "at": "2026-09-30T18:00",
-      "metricool_id": 384749294,
+      "at": "2026-09-30T07:58",
+      "metricool_id": 384959467,
       "media": "genesis_ep02a_the_heavens_tiktok_cover.mp4"
     },
     {
       "ep": "02A",
       "network": "instagram",
+      "at": "2026-09-30T07:58",
+      "metricool_id": 384959493
+    },
+    {
+      "ep": "02B",
+      "network": "tiktok",
       "at": "2026-09-30T18:00",
-      "metricool_id": 384747118
-    },
-    {
-      "ep": "02B",
-      "network": "tiktok",
-      "at": "2026-10-01T06:00",
-      "metricool_id": 384793192,
+      "metricool_id": 384959104,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     },
     {
       "ep": "02B",
       "network": "youtube",
-      "at": "2026-10-01T06:00",
-      "metricool_id": 384793215,
+      "at": "2026-09-30T18:00",
+      "metricool_id": 384959191,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     },
     {
       "ep": "02B",
       "network": "instagram",
-      "at": "2026-10-01T06:00",
-      "metricool_id": 384793302,
+      "at": "2026-09-30T18:00",
+      "metricool_id": 384959228,
       "media": "genesis_ep02b_the_dry_land_tiktok_cover.mp4"
     },
     {
       "ep": "03A",
       "network": "tiktok",
-      "at": "2026-10-02T18:00",
-      "metricool_id": 384784353,
+      "at": "2026-10-01T18:00",
+      "metricool_id": 384959252,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     },
     {
       "ep": "03A",
       "network": "youtube",
-      "at": "2026-10-02T18:00",
-      "metricool_id": 384784380,
+      "at": "2026-10-01T18:00",
+      "metricool_id": 384959294,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     },
     {
       "ep": "03A",
       "network": "instagram",
-      "at": "2026-10-02T18:00",
-      "metricool_id": 384784501,
+      "at": "2026-10-01T18:00",
+      "metricool_id": 384959326,
       "media": "genesis_ep03a_signs_and_seasons_tiktok_cover.mp4"
     }
   ],
-  "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels"
+  "cadence": "one episode per day, 18:00 America/Puerto_Rico, TikTok + YouTube Shorts + Instagram Reels (02A posted the morning of Sep 30)"
 }
