@@ -6,31 +6,39 @@
       "ep": "01",
       "network": "tiktok",
       "at": "2026-09-30T01:36",
-      "metricool_id": 384746700
+      "metricool_id": 384746700,
+      "url": "https://www.tiktok.com/@animebibletok/video/7691197964038999310",
+      "status": "published (black first-frame cover)"
     },
     {
       "ep": "01",
       "network": "youtube",
       "at": "2026-09-30T01:36",
-      "metricool_id": 384746731
+      "metricool_id": 384746731,
+      "url": "https://www.youtube.com/shorts/z7mPlvGJ6Lk",
+      "status": "published (custom thumbnail rejected: channel not verified)"
     },
     {
       "ep": "01",
       "network": "instagram",
       "at": "2026-09-30T01:36",
-      "metricool_id": 384746747
+      "metricool_id": 384746747,
+      "url": "https://www.instagram.com/reel/Dd5mTiOFcQe/",
+      "status": "published"
     },
     {
       "ep": "02A",
       "network": "tiktok",
       "at": "2026-09-30T18:00",
-      "metricool_id": 384747081
+      "metricool_id": 384749260,
+      "media": "genesis_ep02a_the_heavens_tiktok_cover.mp4"
     },
     {
       "ep": "02A",
       "network": "youtube",
       "at": "2026-09-30T18:00",
-      "metricool_id": 384747112
+      "metricool_id": 384749294,
+      "media": "genesis_ep02a_the_heavens_tiktok_cover.mp4"
     },
     {
       "ep": "02A",
