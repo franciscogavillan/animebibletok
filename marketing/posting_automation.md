@@ -55,6 +55,29 @@ I can build `tools/publish.py` to read each episode's video and posting kit and 
 - **Scheduling uses a scheduler (Option A)** until the channel has traction.
 - **Build Option B later** once you're posting daily and the audits are worth the effort. Start the TikTok and Google audit applications early, since they take the longest.
 
+---
+
+## ✅ Chosen: Metricool
+
+### One-time setup (you)
+1. **Create the brand** "AnimeBibleTok" in Metricool and connect: **TikTok**, **YouTube** (the channel), **Instagram** (Business/Creator account linked to a Facebook Page) and the **Facebook Page**.
+2. **Plan:** the free plan allows **1 brand and 20 scheduled posts/month**. One episode on four networks may count as up to 4 posts, so daily posting will outgrow it within the first week. **Starter** (about $20/month billed annually) removes that ceiling.
+3. **Connect Metricool to Claude:** in claude.ai → Settings → Connectors, add **"Metricool Social Media Management"**, then enable it in this chat. Once it's on, I can schedule episodes into your Metricool calendar directly (`createScheduledPost`), read the best posting times (`getBestTimeToPostByNetwork`) and check the queue (`getScheduledPosts`).
+4. **Set the posting slots** (e.g. daily 7:30 pm). After connecting, I'll pull Metricool's best-time data for your accounts and adjust.
+
+### Per episode (once connected)
+1. I render the episode and generate its posting kit (already automated).
+2. I create one scheduled post per network in Metricool with that network's caption/title/description/tags from the kit.
+3. **You check the AI-content disclosure** on each network's post settings in Metricool before it publishes. If Metricool can't set it for a network, flip it in that app right after the post goes live. Don't skip it.
+
+### Media hosting (the one open question)
+Metricool publishes from a **media URL**, but the rendered videos currently live in this session and the repo. Once the connector is on, I'll check whether it accepts direct uploads. If it needs a public URL, we'll choose a host: either upload each MP4 to Metricool's media library yourself (drag and drop, about 10 seconds per episode, after which I schedule everything else), or use a storage bucket I can upload to.
+
+### Fallback without the connector
+Use Metricool's **CSV bulk import** (Planning → import CSV, up to about 50 posts per file). I can generate a week's CSV from the posting kits, and you attach the videos in Metricool.
+
+Sources: [Metricool pricing](https://metricool.com/pricing/) · [Metricool CSV batch scheduling](https://metricool.com/import-csv-for-scheduling/) · [Metricool scheduling options by network](https://help.metricool.com/en/article/scheduling-and-posting-options-by-social-network-127eukv/) · [Metricool API — scheduler endpoint](https://help.metricool.com/en/article/common-questions-and-errors-when-using-the-api-zr6lmy/) · [Metricool Pricing 2026 — PostPlanify](https://postplanify.com/metricool-pricing)
+
 ## Rules that apply however you post
 - **AI label ON everywhere**: TikTok `is_aigc` / AI-generated content, YouTube `containsSyntheticMedia`, Meta "AI info".
 - Same master file everywhere, no re-uploads of another platform's watermarked export.
