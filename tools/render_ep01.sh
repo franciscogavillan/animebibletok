@@ -37,14 +37,14 @@ fetch vo/n09.mp3 hf_20260930_011434_b9d5b0db-b9b9-439f-8d93-a5016fad5e0b.mp3
   https://github.com/google/fonts/raw/main/ofl/ebgaramond/static/EBGaramond-SemiBold.ttf || true
 
 # --- 1. picture: normalize, cut to the edit, extend S09 to 7 s ---
-# S03 is graded down to match the near-black S01/S02/S04a (mean luma ~92 -> ~38): before 1:3 the world stays dark.
+# S03 is graded down to match the near-black S01/S02/S04a (mean luma ~92 -> ~44, navy-weighted curve so foam stays blue-white, not tan): before 1:3 the world stays dark.
 N="scale=1080:-2:flags=lanczos,crop=1080:1920,fps=24,setsar=1,format=yuv420p"
 ffmpeg -hide_banner -loglevel error -y \
   -i clips/S01.mp4 -i clips/S02.mp4 -i clips/S03.mp4 -i clips/S04a.mp4 -i clips/S04b.mp4 \
   -i clips/S05.mp4 -i clips/S06.mp4 -i clips/S07.mp4 -i clips/S08.mp4 -i clips/S09.mp4 \
   -filter_complex "
   [0:v]trim=0:6,setpts=PTS-STARTPTS,$N[v1]; [1:v]trim=0:8,setpts=PTS-STARTPTS,$N[v2];
-  [2:v]trim=0:8,setpts=PTS-STARTPTS,$N,lutyuv=y='(val-16)*0.40+16':u='(val-128)*0.8+128':v='(val-128)*0.8+128'[v3]; [3:v]trim=0:5,setpts=PTS-STARTPTS,$N[v4];
+  [2:v]trim=0:8,setpts=PTS-STARTPTS,$N,curves=r='0/0 0.5/0.08 1/0.42':g='0/0 0.5/0.11 1/0.50':b='0/0 0.5/0.20 1/0.66',eq=saturation=0.85[v3]; [3:v]trim=0:5,setpts=PTS-STARTPTS,$N[v4];
   [4:v]trim=0:3,setpts=PTS-STARTPTS,$N[v5]; [5:v]trim=0:7,setpts=PTS-STARTPTS,$N[v6];
   [6:v]trim=0:6,setpts=PTS-STARTPTS,$N[v7]; [7:v]trim=0:7,setpts=PTS-STARTPTS,$N[v8];
   [8:v]trim=0:7,setpts=PTS-STARTPTS,$N[v9];
@@ -97,4 +97,4 @@ ffmpeg -hide_banner -loglevel error -y -i soundbed.wav -i vo/n01.mp3 -i vo/n02.m
 # --- 4. mux ---
 ffmpeg -hide_banner -loglevel error -y -i video.mp4 -i mix.wav -map 0:v -map 1:a \
   -c:v copy -c:a aac -b:a 256k -movflags +faststart -shortest genesis_ep01_in_the_beginning_1080x1920.mp4
-ffprobe -v error -show_entries format=duration:stream=codec_name,width,height,r_frame_rate -of compact genesis_ep01_in_the_beginning_1080x1920.mp4
+command -v ffprobe >/dev/null && ffprobe -v error -show_entries format=duration:stream=codec_name,width,height,r_frame_rate -of compact genesis_ep01_in_the_beginning_1080x1920.mp4
